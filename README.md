@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priti Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritikumari87&label=Profile%20views&color=0e75b6&style=flat" alt="pritikumari87" /> </p>
+<img src="https://komarev.com/ghpvc/?username=Pritikumari87&label=Profile%20Views&color=brightgreen&style=flat" alt="Pritikumari87" />
+       
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritikumari87" alt="pritikumari87" /></a> </p>
 
