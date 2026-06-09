@@ -4,10 +4,6 @@
 <img src="https://komarev.com/ghpvc/?username=Pritikumari87&label=Profile%20Views&color=brightgreen&style=flat" alt="Pritikumari87" />
        
 
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [The SME Journal](thesmejournal.com)
 
 - 🌱 I’m currently learning **HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, Jquery, TypeScript, React, Next.js**
