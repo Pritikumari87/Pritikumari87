@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priti Kumari</h1>
 <h3 align="center">Passionate full-stack developer from India, frontend specialist.</h3>
 
-<img src="https://komarev.com/ghpvc/?username=Pritikumari87&label=Profile%20Views&color=brightgreen&style=flat" align="center" alt="Pritikumari87" />
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Pritikumari87&label=Profile%20Views&color=brightgreen&style=flat"  alt="Pritikumari87" /> </p>
        
 
 - 🔭 I’m currently working on [The SME Journal](thesmejournal.com)
