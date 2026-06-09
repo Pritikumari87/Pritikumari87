@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priti Kumari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate full-stack developer from India, frontend specialist.</h3>
 
 <img src="https://komarev.com/ghpvc/?username=Pritikumari87&label=Profile%20Views&color=brightgreen&style=flat" alt="Pritikumari87" />
        
